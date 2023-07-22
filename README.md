@@ -193,7 +193,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Contributing
 
-This is a great project for learning Flask, SQLAlchemy, and WTForms. Feel free to fork this repo and make it your own. If you have any questions or suggestions, please feel free to contact me!
+This is a great project for learning React Router, React Bootstrap, and consuming RESTful APIs. It's also a great project for learning about database design and modeling, user authentication and authorization, and user sessions and cookies. If you're interested in contributing, please feel free to open a pull request or fork the project and make it your own!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
